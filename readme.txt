@@ -9,3 +9,5 @@ Git is free software distributed under the GPL.
 在
 
 在
+
+Git has a mutable index called stage.
